@@ -1,0 +1,17 @@
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\UnitTestWithFakeEF.DataModels.dll.config
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\UnitTestWithFakeEF.DataModels.dll
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\UnitTestWithFakeEF.DataModels.pdb
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\EntityFramework.dll
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\EntityFramework.MappingAPI.dll
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\Ploeh.AutoFixture.dll
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\TrackerEnabledDbContext.Common.dll
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\EntityFramework.xml
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\EntityFramework.MappingAPI.pdb
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\bin\Debug\Ploeh.AutoFixture.xml
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\obj\Debug\UnitTestWithFakeEF.DataModels.csprojResolveAssemblyReference.cache
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\obj\Debug\UnitTestWithFakeEF.DataModels.dll
+C:\Repos\UnitTestWithFakeEF\UnitTestWithFakeEF\UnitTestWithFakeEF.DataModels\obj\Debug\UnitTestWithFakeEF.DataModels.pdb
