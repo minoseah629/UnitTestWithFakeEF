@@ -19,8 +19,9 @@ namespace UnitTestWithFakeEF.DataModels
     {
         //From EH When Adding new Tables, please include in TestContent
 
-        DbSet<AceCode> AceCodes { get; set; }
-        DbSet<AcmChangeRequest> AcmChangeRequests { get; set; }
+        DbSet<Album> Albums { get; set; }
+        DbSet<Artist> Artists { get; set; }
+        DbSet<Track> Tracks { get; set; }
         
 
         //From EH When Adding new Tables, please include in TestContent
@@ -42,7 +43,7 @@ namespace UnitTestWithFakeEF.DataModels
         //void OnModelCreating(DbModelBuilder modelBuilder);
         int SaveChanges();
 
-        int SaveChanges(object userName);
+        //int SaveChanges(object userName);
         Task<int> SaveChangesAsync();
         Task<int> SaveChangesAsync(CancellationToken cancellationToken);
         DbSet<TEntity> Set<TEntity>() where TEntity : class;
@@ -74,9 +75,10 @@ namespace UnitTestWithFakeEF.DataModels
             }
         }
 
-        public virtual DbSet<AceCode> AceCodes { get; set; }
-        public virtual DbSet<AcmChangeRequest> AcmChangeRequests { get; set; }
-        
+        public virtual DbSet<Album> Albums { get; set; }
+        public virtual DbSet<Artist> Artists { get; set; }
+        public virtual DbSet<Track> Tracks { get; set; }
+
         public virtual void SetModified(object entity)
         {
             Entry(entity).State = EntityState.Modified;
@@ -90,11 +92,6 @@ namespace UnitTestWithFakeEF.DataModels
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
                         
-        }
-
-        public int SaveChanges(object userName)
-        {
-            throw new NotImplementedException();
         }
     }
 }
