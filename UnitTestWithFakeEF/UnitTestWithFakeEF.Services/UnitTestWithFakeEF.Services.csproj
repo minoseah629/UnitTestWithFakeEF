@@ -171,16 +171,6 @@
       <SubType>Designer</SubType>
     </None>    
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\MyVector.Arms\MyVector.Arms.csproj">
-      <Project>{1c2a933b-aae4-4688-87e1-071af35faebe}</Project>
-      <Name>MyVector.Arms</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\UnitTestWithFakeEF.DataModels\UnitTestWithFakeEF.DataModels.csproj">
-      <Project>{a125902e-6df6-4898-a52f-a6598f01af05}</Project>
-      <Name>MyVector.DataModels</Name>
-    </ProjectReference>
-  </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
